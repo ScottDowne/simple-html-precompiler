@@ -1,0 +1,10 @@
+{
+  "name": "scott",
+  "version": "1.0.0",
+  "description": "webpack plugin to precompile html",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ScottDowne/simple-html-precompiler"
+  }
+}
